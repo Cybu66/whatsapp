@@ -35,7 +35,7 @@ node alexa.js
 
 **If You are Lazy to Download Termux or Concerned About Memory leaks, You can Use Below Button 'Run on Replit' to scan QR Code, Also Laptop/Computer is More Confortable To Scan the QR Code.**
 
-[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAlexa)](https://replit.com/@TOXICDEVIL/WhatsAlexa)
+[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAlexa)](https://replit.com/@ReinhardTuna/WhatsAsena-QR-2?v=1)
 
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
 
