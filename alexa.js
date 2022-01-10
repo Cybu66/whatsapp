@@ -268,15 +268,15 @@ async function Alexa () {
                         }
                         catch (error) {
                             if (config.LANG == 'EN') {
-                                let erren = `*『 ERROR 』*\n\n*WhatsAlexa an error has occurred!*\n_Report this error to the developer [ TOXIC-DEVIL ]._\n\n*Error:*`
+                                let erren = `*『 ERROR 』*\n\n*WhatsAlexa an error has occurred!*\n_Report this error to the developer [ DRIPS MEMES ]._\n\n*Error:*`
                                 await WhatsAlexa.sendMessage(WhatsAlexa.user.jid, erren + '```' + error + '```\n\n', MessageType.text);
                                 
                             } else if (config.LANG == 'ML') {
-                                let errml = `*『 പിശക് 』*\n\n*WhatsAlexa പിശക് സംഭവിച്ചു!*\n_ഈ പിശക് ഡെവലപ്പറെ അറിയിക്കുക [ TOXIC-DEVIL ]._\n\n*പിശക്:*`
+                                let errml = `*『 പിശക് 』*\n\n*WhatsAlexa പിശക് സംഭവിച്ചു!*\n_ഈ പിശക് ഡെവലപ്പറെ അറിയിക്കുക [ DRIPS MEMES ]._\n\n*പിശക്:*`
                                 await WhatsAlexa.sendMessage(WhatsAlexa.user.jid, errml + '```' + error + '```\n\n', MessageType.text);
                                 
                             } else {
-                                let errid = `*『 KESALAHAN 』*\n\n*WhatsAlexa telah terjadi kesalahan!*\n_Laporkan kesalahan ini ke pengembang [ TOXIC-DEVIL ]._\n\n*Kesalahan:*`
+                                let errid = `*『 KESALAHAN 』*\n\n*WhatsAlexa telah terjadi kesalahan!*\n_Laporkan kesalahan ini ke pengembang [ DRIPS MEMES ]._\n\n*Kesalahan:*`
                                 await WhatsAlexa.sendMessage(WhatsAlexa.user.jid, errid + '```' + error + '```\n\n', MessageType.text);
                             }
                         }
