@@ -1,14 +1,14 @@
 ## 🤔 What is WhatsAlexa?! 🤔
 - **WhatsAlexa** is a Helper WhatsApp Bot Written with **[Baileys](https://github.com/adiwajshing/baileys)** Which is hosted on **[Heroku Cloud Server](https://heroku.com).** Also Alexa has a **Lot of Commands/Features,** Including **Artificial Intelligence [ AI ] Features/Commands.**
 
-# [![Typing SVG](https://bit.ly/3tSyaJK)](https://github.com/zim-bot)
+## WhatsAlexa Made by DRIPS MEMES
 
 <div align="center">
   <img src="https://rotf.lol/Whats-Alexa-Gif-TOXIC-DEVIL" width="200" height="200">
   <h1>WhatsAlexa</h1>
 </div>
 <p align="center">
-    WhatsAlexa is a Helper WhatsApp Bot Written By @TOXIC-DEVIL with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
+    WhatsAlexa is a Helper WhatsApp Bot Written By @DripsMemes with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
     <br>
 
 <p align="center">
@@ -57,7 +57,7 @@ If you are concerned about security, you can install it on your own computer. If
     
 ### 😵 I am facing some errors/bug in Alexa, I want to request a feature or I have some doubts about Alexa, How can I Clear them all? 
   
-You can clear all of them, by contacting the developer, **[TOXIC DEVIL](https://wa.me/27634090203?text=I%20Have%20Seen%20Your%20WhatsAlexa%20Ropo%20😍%20I%20Got%20Your%20Number%20From%20GitHub%20😉)**
+You can clear all of them, by contacting the developer, **[DRIPS MEMES](https://wa.me/27634090203?text=I%20Have%20Seen%20Your%20WhatsAlexa%20Ropo%20😍%20I%20Got%20Your%20Number%20From%20GitHub%20😉)**
 
 ### 📃 How Can I Download the Bot Script?
 
@@ -116,7 +116,7 @@ you can contact TOXIC DEVIL ( Developer ) by clicking the name below -
 
  [![DRIPS-MEMES](https://github.com/zim-bot.png?size=100)](https://github.com/zim-bot) |
 ----|
-[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  | 
+[DRIPS MEMES](https://github.com/zim-bot)  | 
 Author: Developer, Base, Bug Fixes, Commits, Modules | 
 
 ## ✨ Special Features ✨
